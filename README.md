@@ -2,11 +2,6 @@
 Exercise for github tutorial at INBO
 
 
-changes here
-
-and here
-
-
 
 
 
